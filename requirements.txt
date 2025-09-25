@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+moviepy==1.0.3
+pydub==0.25.1
+ffmpeg-python==0.2.0
+aiofiles==23.2.1
+asyncio
+python-dotenv==1.0.0
